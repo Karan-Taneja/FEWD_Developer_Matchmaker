@@ -18,8 +18,7 @@ body {
 header {
 	background: black;
 	color: white;
-    padding: 1.25% 5.5%;
-
+    padding: 1.20% 10%;
 }
 
 .uppercase{
@@ -180,6 +179,10 @@ footer {
 
 .serif{
     font-family: 'Merriweather', 'serif';
+}
+
+.sans{
+    font-family: 'Oswald', 'sans-serif';
 }
 
 .delete{
